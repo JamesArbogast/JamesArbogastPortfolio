@@ -38,6 +38,8 @@ namespace portfolio1
                     await context.Response.WriteAsync("Hello World!");
                 });
             });
+        Console.WriteLine(env.ContentRootPath);
+        Console.WriteLine(env.IsDevelopment());
         }
     }
 }
