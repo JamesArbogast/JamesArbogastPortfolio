@@ -11,14 +11,14 @@ namespace YourNamespace.Controllers     //be sure to use your own project's name
             return "Hello World from HelloController!";
         }
         [HttpGet]
-        [Route("projects")]
+        [Route("/projects")]
         public string Projects()
         {
-            return "These are my proejcts.";
+            return "These are my projects.";
         }
 
         [HttpGet]
-        [Route("contact")]
+        [Route("/contact")]
         public string Contact()
         {
             return "This is my Contact.";
