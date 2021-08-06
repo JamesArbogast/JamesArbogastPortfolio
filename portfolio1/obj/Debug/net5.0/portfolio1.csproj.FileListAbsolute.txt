@@ -21,3 +21,16 @@ C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Deb
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\ref\portfolio1.dll
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.pdb
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.genruntimeconfig.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\bin\Debug\net5.0\portfolio1.Views.dll
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\bin\Debug\net5.0\portfolio1.Views.pdb
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.RazorAssemblyInfo.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.RazorAssemblyInfo.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.TagHelpers.input.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.TagHelpers.output.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.RazorCoreGenerate.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.RazorTargetAssemblyInfo.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.Views.pdb
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\portfolio1.csproj.CopyComplete
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\Razor\Views\Hello\Projects.cshtml.g.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\portfolio1\portfolio1\obj\Debug\net5.0\Razor\Views\Hello\Contact.cshtml.g.cs

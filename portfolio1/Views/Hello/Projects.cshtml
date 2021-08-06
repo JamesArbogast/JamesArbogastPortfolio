@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Projects</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <div class="nav">
+          <h1>
+            <a href="/">Home</a>
+          </h1> 
+          <h1>|</h1> 
+          <h1>
+            <a href="/projects">Projects</a>
+          </h1> 
+          <h1>|</h1> 
+          <h1>
+            <a href="/contact">Contact</a>
+          </h1>
+        </div>
+        <h1>Here are my current projects:</h1>
+        @{
+            var ProjectList = new List<string>
+            {
+                "Foodcestry.com",
+                "Seattle Threads Website",
+                "PokeTeams",
+                "Shield Axe Sword"
+            };
+                
+            foreach(var project in ProjectList)
+            {
+
+              <p>@project</p>
+
+            }
+        }
+    </body>
+</html>

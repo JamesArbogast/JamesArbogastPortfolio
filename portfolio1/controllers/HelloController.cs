@@ -1,27 +1,30 @@
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-namespace YourNamespace.Controllers     //be sure to use your own project's namespace!
+
+namespace portfolio1.Controllers     //be sure to use your own project's namespace!
 {
     public class HelloController : Controller   //remember inheritance??
     {
         //for each route this controller is to handle:
         [HttpGet]       //type of request
         [Route("")]     //associated route string (exclude the leading /)
-        public string Index()
+        public ViewResult Index()
         {
-            return "Hello World from HelloController!";
+          return View();
         }
+
         [HttpGet]
         [Route("/projects")]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "These are my projects.";
+          return View("Projects");
         }
 
         [HttpGet]
         [Route("/contact")]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my Contact.";
+          return View("Contact");
         }
     }
 }

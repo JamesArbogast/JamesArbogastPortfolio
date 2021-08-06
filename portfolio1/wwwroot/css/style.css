@@ -1,0 +1,23 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow'
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
+h1 {
+  font-size: 20px;
+}
+.blue {
+  color: blue,
+}
